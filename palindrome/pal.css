@@ -1,0 +1,25 @@
+#check-btn{
+    width: 126px;
+    height: 54px;
+    font-size: 20px;
+    background-color: bisque;
+    border-radius: 20px;
+    font-weight: 1000;
+}
+#check-btn:hover{
+    background-color: aliceblue;
+}
+#check-btn:active{
+    background-color: rgb(80, 76, 76);
+}
+#text-input{
+    height: 54px;
+    width:270px;
+    border-radius: 20px;
+    background-color: rgb(133, 132, 132);
+    font-size: 18px;
+    
+}
+body{
+    background-color: lightblue;
+}
